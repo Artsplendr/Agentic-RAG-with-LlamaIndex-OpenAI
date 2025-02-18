@@ -6,7 +6,7 @@ This repository contains 4 Notebooks:
 This project implements an Agentic Retrieval-Augmented Generation (RAG) using LlamaIndex and OpenAI API to process and query information from a PDF document. The system is designed to have two query engines: summary_query_engine to summarize the document and qa_query_engine to answer specific questions. The Router Query Engine selects dynamically the best query engine based on user input.
 
 ## 2 Tool Calling with LlamaIndex and OpenAI
-This project aimes to explore Tool Calling, which helps select not only the best query engine but also arguments to pass through the function, for example a page number. 
+This project is aimed to explore Tool Calling, which helps select not only the best query engine but also arguments to pass through the function, for example a page number. 
 Tool Calling adds a layer of query understanding on top of the RAG pipeline, enables users to ask complex queries and to receive more accurate answers.
 
 ## 3 Building an Agent Reasoning Loop with LlamaIndex and OpenAI
