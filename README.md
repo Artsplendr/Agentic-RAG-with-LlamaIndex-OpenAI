@@ -16,6 +16,6 @@ What if a user asks a complex question with multiple steps to be clarified? This
 In this project we learn how to extend Agent to handle multiple documents and increasing complexity.
 
 # References
-This project is based on the excellent and insipring course **"Building Agentic RAG with Llamaindex"** by **Deeplearning.AI** and is available at the following [link](https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex/).
+This project is based on the excellent and inspiring course **"Building Agentic RAG with Llamaindex"** by **Deeplearning.AI** and is available at the following [link](https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex/).
 Thank you to the team, developed this course!
 
